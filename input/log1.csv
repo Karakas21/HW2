@@ -1,0 +1,11 @@
+date,rank,extraInfo
+Nov 15 07:12:33,7,localhost gnome-session-binary[2187]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+Nov 15 05:12:33,3,localhost gnome-session-binary[2187]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+Nov 15 15:12:33,0,localhost pulseaudio.desktop: W: [pulseaudio] main.c: This program is not intended to be run as root (unless --system is specified).
+Nov 15 01:12:33,7,localhost pulseaudio.desktop: W: [pulseaudio] main.c: This program is not intended to be run as root (unless --system is specified).
+Nov 15 00:12:33,3,localhost gnome-session-binary[2187]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+Nov 15 11:12:33,1,localhost gnome-session-binary[2187]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+Nov 15 10:12:33,2,localhost gnome-session-binary[2187]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+Nov 15 08:12:33,2,localhost pulseaudio.desktop: W: [pulseaudio] main.c: This program is not intended to be run as root (unless --system is specified).
+Nov 15 18:12:33,3,localhost pulseaudio.desktop: W: [pulseaudio] main.c: This program is not intended to be run as root (unless --system is specified).
+Nov 15 17:12:33,0,localhost gnome-session-binary[2187]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
